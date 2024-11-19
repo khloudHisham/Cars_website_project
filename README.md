@@ -1,4 +1,4 @@
-# Cars Angular Project
+# Cars website 
 
 A simple Angular application for managing and viewing cars.
 
@@ -11,7 +11,7 @@ A simple Angular application for managing and viewing cars.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/khloudHisham/Cars_website_prroject
+   git clone https://github.com/khloudHisham/Cars_website_project
    cd cars
    ```
 2. Install dependencies:
